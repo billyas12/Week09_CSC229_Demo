@@ -46,6 +46,10 @@ public class Problem01 {
     }
     
    // also discuss T(n) = 3 T(n/4) + n
+    // This equation is a dividing function
+    //a = 3 b = 4 log3 4= 1.26185 f(n) = n c = 1
+    // Case 1
+    // O(n^log3 4)
     
     
 }
